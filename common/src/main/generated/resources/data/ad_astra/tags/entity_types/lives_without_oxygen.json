@@ -12,6 +12,17 @@
     "minecraft:blaze",
     "minecraft:magma_cube",
     "minecraft:zombified_piglin",
-    "minecraft:zoglin"
+    "minecraft:zoglin",
+    "sculkhorde:sculk_creeper",
+    "sculkhorde:sculk_enderman",
+    "sculkhorde:sculk_bee_harvester",
+    "sculkhorde:sculk_bee_infector",
+    "sculkhorde:sculk_guardian",
+    "sculkhorde:sculk_hatcher",
+    "sculkhorde:sculk_metamorphosis_pod",
+    "sculkhorde:sculk_mite",
+    "sculkhorde:sculk_mite_aggressor",
+    "sculkhorde:sculk_phantom",
+    "sculkhorde:sculk_phantom_corpse"
   ]
 }
